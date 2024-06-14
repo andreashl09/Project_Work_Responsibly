@@ -12,29 +12,3 @@ Featured Resources: A section dedicated to featured resources with detailed info
 Technologies Used
 HTML5: The structure of the website.
 CSS3: Styling and layout.
-
-Project Structure
-
-project-root/
-│
-├── index.html            # Main HTML file
-├── asset/
-│   ├── css/
-│   │   └── style.css     # Stylesheet
-│   ├── img/
-│   │   ├── stress.gif
-│   │   ├── sleep.gif
-│   │   ├── look.gif
-│   │   ├── down.gif
-│   │   ├── lookdown.gif
-│   │   ├── angry.gif
-│   │   ├── twitter.png
-│   │   ├── facebook.png
-│   │   ├── instagram.png
-│   │   ├── ressource1.png
-│   │   ├── resource2.png
-│   │   ├── resource3.png
-│   │   └── resource4.png
-│   └── ...               # Other assets like images, fonts, etc.
-│
-└── README.md             # Project documentation
